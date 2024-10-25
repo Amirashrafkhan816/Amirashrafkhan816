@@ -54,14 +54,49 @@
 </body>
 </html>
 - 👋 Hi, I’m @Amirashrafkhan816
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Future Of Blockchain and DeFi 
+- 🌱 I’m currently learning Ethereum Blockchain
+- 📫 How to reach me [aamirashrafkhan816@gmail.com]
+- 😄 Pronouns: I believe in the power of technology to transform lives and create opportunities. My journey from the restaurant floor to the world of blockchain reflects my commitment to continuous learning and innovation.
+- ⚡ Fun fact: Did you know that blockchain technology can be used to create secure and transparent voting systems? I’m passionate about exploring how decentralized solutions can reshape industries, and I can’t wait to be part of this exciting evolution!.
 
 <!---
 Amirashrafkhan816/Amirashrafkhan816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+section {
+    padding: 20px;
+    background: #fff;
+    margin: 10px;
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}
