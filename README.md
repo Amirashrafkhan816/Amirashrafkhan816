@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>MD AMIR KHAN</h1>
+        <h1> MD AMIR KHAN </h1>
         <p>I am a dedicated professional with a strong background in restaurant management and a passion for blockchain development.
           With experience in leading teams and enhancing customer relations, I have developed essential skills in management and operations. 
           Currently pursuing a Master's in Blockchain, I am eager to leverage my technical knowledge in projects related to smart contracts and decentralized applications. 
