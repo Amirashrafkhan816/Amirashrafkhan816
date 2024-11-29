@@ -53,12 +53,12 @@
     </footer>
 </body>
 </html>
-- 👋 Hi, I’m @Amirashrafkhan816
-- 👀 I’m interested in Future Of Blockchain and DeFi 
-- 🌱 I’m currently learning Ethereum Blockchain
-- 📫 How to reach me [aamirashrafkhan816@gmail.com]
-- 😄 Pronouns: I believe in the power of technology to transform lives and create opportunities. My journey from the restaurant floor to the world of blockchain reflects my commitment to continuous learning and innovation.
-- ⚡ Fun fact: Did you know that blockchain technology can be used to create secure and transparent voting systems? I’m passionate about exploring how decentralized solutions can reshape industries, and I can’t wait to be part of this exciting evolution!.
+- 👋 Hi, I’m @Amirashrafkhan816 </br>
+- 👀 I’m interested in Future Of Blockchain and DeFi  </br>
+- 🌱 I’m currently learning Ethereum Blockchain  </br>
+- 📫 How to reach me [aamirashrafkhan816@gmail.com]  </br>
+- 😄 Pronouns: I believe in the power of technology to transform lives and create opportunities. My journey from the restaurant floor to the world of blockchain reflects my commitment to continuous learning and innovation.  </br>
+- ⚡ Fun fact: Did you know that blockchain technology can be used to create secure and transparent voting systems? I’m passionate about exploring how decentralized solutions can reshape industries, and I can’t wait to be part of this exciting evolution!.  </br>
 
 <!---
 Amirashrafkhan816/Amirashrafkhan816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
